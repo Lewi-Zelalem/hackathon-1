@@ -1,0 +1,13 @@
+- Secure a spot square position absolute,
+- Active tab nav link highlight,
+- Links,
+- Track containers hover animation,
+- Track Descriptions,
+- Amharic Model,
+- Mentors/speakers list,
+- Missing pictures.
+
+Resposivity Problems
+- from navlink to page and back on mobile,
+- About to Special page picture conjustion on
+  mobile.
